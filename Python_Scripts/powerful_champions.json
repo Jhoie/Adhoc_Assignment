@@ -1,0 +1,102 @@
+{
+    "Alistar": {
+        "title": "the Minotaur",
+        "defense": 9,
+        "attack": 6
+    },
+    "Camille": {
+        "title": "the Steel Shadow",
+        "defense": 6,
+        "attack": 8
+    },
+    "Diana": {
+        "title": "Scorn of the Moon",
+        "defense": 6,
+        "attack": 7
+    },
+    "Gangplank": {
+        "title": "the Saltwater Scourge",
+        "defense": 6,
+        "attack": 7
+    },
+    "Garen": {
+        "title": "The Might of Demacia",
+        "defense": 7,
+        "attack": 7
+    },
+    "Hecarim": {
+        "title": "the Shadow of War",
+        "defense": 6,
+        "attack": 8
+    },
+    "Illaoi": {
+        "title": "the Kraken Priestess",
+        "defense": 6,
+        "attack": 8
+    },
+    "Jarvan IV": {
+        "title": "the Exemplar of Demacia",
+        "defense": 8,
+        "attack": 6
+    },
+    "Kayle": {
+        "title": "the Righteous",
+        "defense": 6,
+        "attack": 6
+    },
+    "Kayn": {
+        "title": "the Shadow Reaper",
+        "defense": 6,
+        "attack": 10
+    },
+    "K'Sante": {
+        "title": "the Pride of Nazumah",
+        "defense": 8,
+        "attack": 8
+    },
+    "Poppy": {
+        "title": "Keeper of the Hammer",
+        "defense": 7,
+        "attack": 6
+    },
+    "Shyvana": {
+        "title": "the Half-Dragon",
+        "defense": 6,
+        "attack": 8
+    },
+    "Skarner": {
+        "title": "the Crystal Vanguard",
+        "defense": 6,
+        "attack": 7
+    },
+    "Trundle": {
+        "title": "the Troll King",
+        "defense": 6,
+        "attack": 7
+    },
+    "Udyr": {
+        "title": "the Spirit Walker",
+        "defense": 7,
+        "attack": 8
+    },
+    "Volibear": {
+        "title": "the Relentless Storm",
+        "defense": 7,
+        "attack": 7
+    },
+    "Xayah": {
+        "title": "the Rebel",
+        "defense": 6,
+        "attack": 10
+    },
+    "Xin Zhao": {
+        "title": "the Seneschal of Demacia",
+        "defense": 6,
+        "attack": 8
+    },
+    "Yorick": {
+        "title": "Shepherd of Souls",
+        "defense": 6,
+        "attack": 6
+    }
+}
